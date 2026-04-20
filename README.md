@@ -1,7 +1,7 @@
 # 👨🏻‍💻 Daniel Runschka
 
 
-Me chamo Daniel, tenho 22 anos  sou de Curitiba e sou apaixonado por tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de sistemas pela estácio e estou buscando minha primeira oportunidade de estágio como programador/desenvolvedor, além da faculdade também estudo na plataforma curso em vídeo e pela internet. Tenho muita vontade de aprender, me desenvolver profissionalmente e contribuir com projetos que façam a diferença.
+
 
 
 <p align="left">
